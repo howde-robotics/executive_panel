@@ -1,0 +1,9 @@
+<library path="libexecutive_panel">
+  <class name="executive_panel/ExecutivePanel"
+         type="executive_panel::ExecutivePanel"
+         base_class_type="rviz::Panel">
+    <description>
+      A panel widget to send Dragoon commands.
+    </description>
+  </class>
+</library>
